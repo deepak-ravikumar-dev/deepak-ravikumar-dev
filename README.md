@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @deepak-ravikumar-dev
+- 👀 I’m interested in Machine Learning, Web Development, and Data Analysis.
+- 🌱 I’m currently learning advanced techniques in Artificial Intelligence and exploring new possibilities in Deep Learning.
+- 💞️ I’m looking to collaborate on research papers and innovative projects in the areas of Deep Learning and Machine Learning.
+- 📫 How to reach me: deepakravikumar04@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a dedicated and fun-loving foodie who loves traveling! My triggering point? Demotivation—it only fuels my desire to push harder and succeed.
